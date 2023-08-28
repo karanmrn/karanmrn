@@ -54,18 +54,6 @@ Thanks for stopping by. Here's a little bit about myself...
 -->
 
 
-📫 Here's how you can reach me: [Linkedin](https://www.linkedin.com/in/karanmanoharan23/)  [Twitter](https://twitter.com/kar_ran23) (+447459254319) [Email:karanmanoharann@gmail.com]
-<!--START_SECTION:waka-->
-
-<a href="https://github.com/karanmrn/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=karanmrn" />
-</a>
-<a href="https://github.com/karanmrn/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanmrn&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<!--END_SECTION:waka-->
-
 <!-- Social Section -->
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
