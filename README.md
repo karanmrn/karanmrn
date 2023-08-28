@@ -83,8 +83,8 @@ Thanks for stopping by. Here's a little bit about myself...
   <a href="https://stackoverflow.com/users/12339658/karanmrn">
     <img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/>
   </a>
-
   
 </p>
+if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/karanm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="karanm" /></a></p><br><br>
