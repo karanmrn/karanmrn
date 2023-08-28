@@ -31,4 +31,6 @@ Thanks for stopping by. Here's a little bit about myself...
 ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karanmrn&show_icons=true)
 ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karanmrn&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanmrn)](https://github.com/karanmrn/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanmrn&langs_count=5)
+[![Karan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karanmrn)](https://github.com/karanmrn/github-readme-stats)
 <!--END_SECTION:waka-->
