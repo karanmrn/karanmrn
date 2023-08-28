@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">Data Scientist|Analyst</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanmrn&label=Profile%20views&color=0e75b6&style=flat" alt="karanmrn" /> </p>
 
@@ -20,14 +21,14 @@ Thanks for stopping by. Here's a little bit about myself...
 
 -🤘 You can find various ML/DataScience/Analyst projects on my profile
 
-- 🌱 I’m currently learning **Javascript, Typescript,**
+-🌱 I’m currently learning **Javascript, Typescript,**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/karanmrn](https://www.github.com/karanmrn)
+-👨‍💻 All of my projects are available at [https://www.github.com/karanmrn](https://www.github.com/karanmrn)
 
-- 📫 How to reach me **karanmanoharann@gmail.com**
+-📫 How to reach me **karanmanoharann@gmail.com**
 
-- ⚡ Fun fact **I love F1 and going to raves**
-- 🧑🏻‍🏫 Learning
+-⚡ Fun fact **I love F1 and going to raves**
+-🧑🏻‍🏫 Learning
   
       Exploring Modern Data Stack (dbt, Airbyte, Databricks)
   
