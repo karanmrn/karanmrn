@@ -27,9 +27,14 @@ Thanks for stopping by. Here's a little bit about myself...
 
 📫 Here's how you can reach me: [Linkedin](https://www.linkedin.com/in/karanmanoharan23/)  [Twitter](https://twitter.com/kar_ran23) (+447459254319) [Email:karanmanoharann@gmail.com]
 <!--START_SECTION:waka-->
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karanmrn&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanmrn)](https://github.com/karanmrn/github-readme-stats)
-[![Karan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karanmrn)](https://github.com/karanmrn/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanmrn&layout=donut)](https://github.com/karanmrn/github-readme-stats)
+
+
+<a href="https://github.com/karanmrn/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=karanmrn" />
+</a>
+<a href="https://github.com/karanmrn/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanmrn&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 <!--END_SECTION:waka-->
