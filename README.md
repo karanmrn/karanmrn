@@ -24,7 +24,8 @@ Thanks for stopping by. Here's a little bit about myself...
 
 -📫 How to reach me **karanmanoharann@gmail.com**
 
--⚡ Fun fact **I love F1 and going to raves**
+-⚡ Fun fact **I love F1 and going to raves and concerts, my favorite artist is The Weeknd and my favorite songs The Hills <3**
+
 -🧑🏻‍🏫 Learning
   
       Exploring Modern Data Stack (dbt, Airbyte, Databricks)
