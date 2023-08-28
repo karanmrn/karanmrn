@@ -27,6 +27,7 @@ Thanks for stopping by. Here's a little bit about myself...
 
 📫 Here's how you can reach me: [Linkedin](https://www.linkedin.com/in/karanmanoharan23/)  [Twitter](https://twitter.com/kar_ran23) (+447459254319) [Email:karanmanoharann@gmail.com]
 <!--START_SECTION:waka-->
+
 [![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karanmrn)](https://github.com/karanmrn/github-readme-stats)
 ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karanmrn&show_icons=true)
 ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karanmrn&show_icons=true&theme=radical)
@@ -34,4 +35,5 @@ Thanks for stopping by. Here's a little bit about myself...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanmrn&langs_count=5)
 [![Karan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karanmrn)](https://github.com/karanmrn/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanmrn&layout=donut)](https://github.com/karanmrn/github-readme-stats)
+
 <!--END_SECTION:waka-->
