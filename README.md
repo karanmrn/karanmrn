@@ -28,7 +28,6 @@ Thanks for stopping by. Here's a little bit about myself...
 📫 Here's how you can reach me: [Linkedin](https://www.linkedin.com/in/karanmanoharan23/)  [Twitter](https://twitter.com/kar_ran23) (+447459254319) [Email:karanmanoharann@gmail.com]
 <!--START_SECTION:waka-->
 
-
 <a href="https://github.com/karanmrn/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=karanmrn" />
 </a>
@@ -36,8 +35,8 @@ Thanks for stopping by. Here's a little bit about myself...
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanmrn&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-
 <!--END_SECTION:waka-->
+
 <!-- Social Section -->
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
@@ -52,11 +51,9 @@ Thanks for stopping by. Here's a little bit about myself...
   <a href= "https://twitter.com/kar_ran23">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
   </a>
-  
   <a href="https://www.buymeacoffee.com/karanm">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/>
   </a>
-  
   <a href="https://github.com/karanmrn">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
   </a>
