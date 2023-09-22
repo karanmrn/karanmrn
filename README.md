@@ -6,13 +6,12 @@
 <p align="left"> <a href="https://twitter.com/kar_ran23" target="blank"><img src="https://img.shields.io/twitter/follow/kar_ran23?logo=twitter&style=for-the-badge" alt="kar_ran23" /></a> </p>
 Thanks for stopping by. Here's a little bit about myself...
 
--😄 My pronouns are: he/him
 
--🔭 👨‍🎓I’m working as a Data Science Intern in Tenacium DC and in my dissertation period at Cardiff University doing my master's in    Data Science and Analytics.
+-🔭 👨‍🎓I’m working as a Freelance Data Scientist and finished my master's from Cardiff University in Data Science and Analytics and actively looking for Full Time opportunities.
 
--👨‍💻 I have over 5 years of experience in Data Science, Business Development, Sales and Marketing. 
+-👨‍💻 I have over 5 years of experience in Data Science and Analytics.
 
--👯 I'm based in London and actively looking for Job Opportunities in Data Science/Analyst/Engineer.
+-👯 I'm based in London and actively looking for Job Opportunities in Data Science/Analyst/Engineer and don't mind shifting.
 
 -💬 I'm working on various Projects related to Machine Learning and ETL
 
