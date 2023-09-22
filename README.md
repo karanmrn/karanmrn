@@ -8,7 +8,7 @@ Thanks for stopping by. Here's a little bit about myself...
 
 
 
--🔭 👨‍🎓I’m working as a Freelance Data Scientist and finished my master's from Cardiff University in Data Science and Analytics and actively looking for Full Time opportunities.
+-🔭 👨‍🎓I’m working as a Freelance Data Scientist and finished my master's from Cardiff University in Data Science and Analytics and actively looking for Full-Time opportunities.
 
 -👨‍💻 I have over 5 years of experience in Data Science and Analytics.
 
