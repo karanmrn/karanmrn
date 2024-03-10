@@ -8,23 +8,23 @@ Thanks for stopping by. Here's a little bit about myself...
 
 
 
--🔭 👨‍🎓I’m working as a Freelance Data Scientist and finished my master's from Cardiff University in Data Science and Analytics and actively looking for Full-Time opportunities.
+-🔭 👨‍🎓I finished my master's from Cardiff University in Data Science and Analytics and actively looking for Full-Time opportunities.
 
--👨‍💻 I have over 5 years of experience in Data Science and Analytics.
+-👨‍💻 I am learning Data Engineering and preparing for AWS and Azure DE associate certification.
 
--👯 I'm based in London and actively looking for Job Opportunities in Data Science/Analyst/Engineer and don't mind shifting.
+-👯 I'm based in London.
 
--💬 I'm working on various Projects related to Machine Learning and ETL
+-💬 I love Formula1 and NBA. I support Lakers for Lebron and the Dallas Mavericks 
 
 -🤘 You can find various ML/DataScience/Analyst projects on my profile
 
--🌱 I’m currently learning **Javascript, Typescript,**
+-🌱 I’m currently learning **Scala**
 
 -👨‍💻 All of my projects are available at [https://www.github.com/karanmrn](https://www.github.com/karanmrn)
 
 -📫 How to reach me **karanmanoharann@gmail.com**
 
--⚡ Fun fact **I love F1 and going to raves and concerts, my favorite artist is The Weeknd and my favorite songs The Hills <3**
+-⚡ Fun fact **I love going to raves and concerts, my favorite artist is The Weeknd and my favorite song is The Hills <3**
 
 -🧑🏻‍🏫 Learning
   
