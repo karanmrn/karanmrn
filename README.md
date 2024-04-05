@@ -1,7 +1,7 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 , I'm Karan</h1>
-<h3 align="center">Data Scientist|Analyst</h3>
+<h3 align="center">Data Engineer|Analyst</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanmrn&label=Profile%20views&color=0e75b6&style=flat" alt="karanmrn"/> </p>
 <p align="left"> <a href="https://twitter.com/kar_ran23" target="blank"><img src="https://img.shields.io/twitter/follow/kar_ran23?logo=twitter&style=for-the-badge" alt="kar_ran23" /></a> </p>
 Thanks for stopping by. Here's a little bit about myself...
