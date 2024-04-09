@@ -10,7 +10,7 @@ Thanks for stopping by. Here's a little bit about myself...
 
 -🔭 👨‍🎓I finished my master's from Cardiff University in Data Science and Analytics and actively looking for Full-Time opportunities.
 
--👨‍💻 I am learning Data Engineering and preparing for AWS and Azure DE associate certification.
+-👨‍💻 I am preparing for AWS and Azure DE associate certification.
 
 -👯 I'm based in London.
 
@@ -18,7 +18,7 @@ Thanks for stopping by. Here's a little bit about myself...
 
 -🤘 You can find various ML/DataScience/Analyst projects on my profile
 
--🌱 I’m currently learning **Scala**
+-🌱 I’m currently learning **ML**
 
 -👨‍💻 All of my projects are available at [https://www.github.com/karanmrn](https://www.github.com/karanmrn)
 
