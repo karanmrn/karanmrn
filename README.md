@@ -28,9 +28,8 @@ Thanks for stopping by. Here's a little bit about myself...
 
 -🧑🏻‍🏫 Learning
   
-      Exploring Modern Data Stack (dbt, Airbyte, Databricks)
-  
-      Azure Cloud and GCP(Already worked with AWS )
+      Exploring Modern Data Stack (dbt, Airbyte, Fivetran)
+
   
       How to build efficient and better models 
 
