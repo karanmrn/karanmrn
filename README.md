@@ -14,9 +14,7 @@ Thanks for stopping by. Here's a little bit about myself...
 
 -👯 I'm based in London.
 
--💬 I love Formula1 and NBA. I support Lakers for Lebron and the Dallas Mavericks 
-
--🤘 You can find various ML/DataScience/Analyst projects on my profile
+-💬 I love Formula1 and NBA. I support Lakers for Lebron and the Dallas Mavericks. Lewis Hamilton is the GOAT and Forza Ferrari
 
 -🌱 I’m currently learning **ML**
 
