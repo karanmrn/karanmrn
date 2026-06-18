@@ -88,7 +88,6 @@ SQL (deep) · Python · Bash · Power BI
 
 ### What I'm building
 
-- 🌆 **`london-nervous-system`** — autonomous city-monitoring platform; 100+ live ingestors on a 500m London grid, async Python, self-healing daemon.
 - 🏠 **`london.rent`** — a PropTech rental platform built on that infrastructure, with neighbourhood intelligence.
 
 ### Currently going deeper on
@@ -98,7 +97,7 @@ Agent architectures and evals · MLOps & deployment (Kubernetes, Terraform) · s
 ### Background
 
 **Pets Choice** — Senior Data Engineer · greenfield Snowflake lakehouse, Cortex + Document AI + MCP
-**Tenacium DC** — Data Engineer / Tech Lead · led a 4-person team, 50M daily events on Kafka + Spark, 90% pipeline failure reduction
+**Tenacium DC** — Data Engineer 
 **Everest** — Data Engineer (consumer appliances) · cut annual pipeline compute costs ~$10k via Spark optimisation
 **Orkash** — Data Analyst · Airflow, Kimball star schemas, ~100GB daily volumes
 **MSc Data Science & Analytics**, Cardiff University
