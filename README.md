@@ -108,13 +108,13 @@ Agent architectures and evals · MLOps & deployment (Kubernetes, Terraform) · s
 <h3 align="left">GitHub Stats</h3>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karanmrn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="Karan's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karanmrn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="Karan's GitHub stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanmrn&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanmrn&layout=compact&hide_border=true&cache_seconds=86400" alt="Top languages" />
 </p>
 <p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=karanmrn&hide_border=true&theme=default" alt="GitHub streak" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=karanmrn&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
