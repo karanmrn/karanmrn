@@ -1,4 +1,4 @@
-![Karan, building with LLMs](https://raw.githubusercontent.com/karanmrn/karanmrn/main/assets/banner.jpg)
+![Karan, building with LLMs](assets/banner.jpg)
 
 # Karan Manoharan
 
@@ -65,7 +65,7 @@ Going deeper on agent architectures and evals, MLOps on Kubernetes, and the boun
 
 Off the clock: hackathons whenever there's one worth losing a weekend to. Formula 1, where Lewis Hamilton is the greatest of all time and Ferrari is the team, which makes Sundays complicated. Basketball, festivals, long walks where most of the actual thinking happens. The Weeknd on repeat.
 
-<p align="center"><img src="https://raw.githubusercontent.com/karanmrn/karanmrn/main/assets/meme-enforcers.jpg" width="420" alt="Me with my right hand enforcers at my workplace"></p>
+<p align="center"><img src="assets/meme-enforcers.jpg" width="420" alt="Me with my right hand enforcers at my workplace"></p>
 
 ---
 
