@@ -1,6 +1,6 @@
 # Karan Manoharan
 
-Data engineer in London. I build [PubMaxx](https://pubmaxxing.com) and contribute to open-source tools for running coding agents.
+Senior AI engineer building agents that do the work. First principles, full AI psychosis.
 
 ## What I am building
 
