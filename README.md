@@ -4,11 +4,14 @@ Senior AI engineer building agents that do the work. First principles, full AI p
 
 ## What I am building
 
-**[PubMaxx](https://pubmaxxing.com)** is a London pub app. It shows what drinks cost at pubs near you, sorts the map by the drink you want, and turns a list of pubs into a crawl your friends can join.
+**[PubMaxx](https://pubmaxxing.com)** helps people find pubs, compare listed pint prices and plan a night with friends. Pub Pal helps you decide where to go.
 
-<!-- generated:pubmaxx:start -->
-So far: [2,161 merged pull requests](https://github.com/Singularityszn/pubmax/pulls?q=is%3Apr+author%3Akaranmrn+is%3Amerged) in [Singularityszn/pubmax](https://github.com/Singularityszn/pubmax).
-<!-- generated:pubmaxx:end -->
+I also build tools for working with AI coding agents:
+
+- [kstack](https://github.com/karanmrn/kstack) is a curated pack of agent skills and workflows.
+- [Mac terminal and agent setup](https://github.com/karanmrn/karan-herdr-shortcut-setup) brings together terminal, shell and agent configuration.
+- [Mac Studio setup](https://github.com/karanmrn/mac-studio-setup) sets up a machine for terminal and agent workflows.
+- [Firstmate fork](https://github.com/karanmrn/firstmate) is my fork of the agent crew orchestration project.
 
 ## Open-source contributions
 
@@ -29,16 +32,16 @@ The green grid under this README is GitHub's own record of the days I was active
 <!-- generated:activity:start -->
 | What | Number |
 | --- | ---: |
-| Contributions since 9 November 2025 | 6,914 |
-| Active days since 9 November 2025 | 152 of 368 |
-| Current streak | 133 days |
-| Longest streak | 133 days |
-| Active days since 2017 | 246 |
-| Contributions since 2017 | 7,269 |
+| Contributions since 23 November 2025 | 8,247 |
+| Active days since 23 November 2025 | 173 of 368 |
+| Current streak | 147 days |
+| Longest streak | 147 days |
+| Active days since 2017 | 270 |
+| Contributions since 2017 | 8,606 |
 
-Since 9 November 2025: 4,053 commits, 2,431 pull requests, 38 reviews and 349 issues.
+Since 23 November 2025: 4,585 commits, 2,979 pull requests, 40 reviews and 549 issues.
 
-<sub>Updated 11 November 2026 (UTC) from the GitHub GraphQL API. A streak is a run of days with at least one public contribution. The total above the graph can differ slightly from this table.</sub>
+<sub>Updated 25 November 2026 (UTC) from the GitHub GraphQL API. A streak is a run of days with at least one public contribution. The total above the graph can differ slightly from this table.</sub>
 <!-- generated:activity:end -->
 
 ## Elsewhere

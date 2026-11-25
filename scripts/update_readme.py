@@ -6,7 +6,7 @@ typed by hand. The script rewrites only the text between marker comments:
 
     <!-- generated:NAME:start --> ... <!-- generated:NAME:end -->
 
-Sections: "pubmaxx", "contributions" and "activity".
+Sections: "contributions" and "activity".
 
 Usage:
     GITHUB_TOKEN=... python3 scripts/update_readme.py [--readme README.md]
@@ -26,11 +26,10 @@ import urllib.parse
 import urllib.request
 
 LOGIN = "karanmrn"
-PUBMAXX_REPO = "Singularityszn/pubmax"
 
 # Repositories that are not open-source projects (for example a take-home
 # test). They are left out of the contributions table.
-HIDDEN_REPOS = {"sbms4d/wasb_sql_test"}
+HIDDEN_REPOS = {"sbms4d/wasb_sql_test", "Singularityszn/pubmax"}
 
 API_URL = "https://api.github.com/graphql"
 
@@ -157,20 +156,11 @@ def fmt(number: int) -> str:
     return f"{number:,}"
 
 
-def render_pubmaxx(gh: GitHub) -> str:
-    merged = gh.pr_count(PUBMAXX_REPO, "is:merged")
-    return (
-        f"So far: [{fmt(merged)} merged pull requests]"
-        f"({pr_search_url(PUBMAXX_REPO, 'is:merged')}) in "
-        f"[{PUBMAXX_REPO}](https://github.com/{PUBMAXX_REPO})."
-    )
-
-
 def render_contributions(gh: GitHub) -> str:
     rows = []
     for repo in gh.contributed_repos():
         name = repo["nameWithOwner"]
-        if repo["isPrivate"] or name in HIDDEN_REPOS or name == PUBMAXX_REPO:
+        if repo["isPrivate"] or name in HIDDEN_REPOS:
             continue
         merged = gh.pr_count(name, "is:merged")
         opened = gh.pr_count(name, "is:open")
@@ -265,7 +255,6 @@ def main() -> int:
     with open(args.readme, encoding="utf-8") as handle:
         readme = handle.read()
 
-    readme = replace_section(readme, "pubmaxx", render_pubmaxx(gh))
     readme = replace_section(readme, "contributions", render_contributions(gh))
     readme = replace_section(readme, "activity", render_activity(gh, now))
 
